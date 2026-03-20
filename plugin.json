@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "name": "Vercel TTS",
+    "description": ""
+  },
+  "data": [{
+    "author": "vBook",
+      "version": 1,
+      "source": "https://teststvtts.com",
+      "path": "https://raw.githubusercontent.com/phuongthanhm225/vbok/master/plugin.zip",
+      "icon": "https://raw.githubusercontent.com/phuongthanhm225/vbok/master/icon.png",
+      "description": "Nghe truyện bằng Vercel TTS",
+      "type": "VercelTTS"
+  }]
+}
